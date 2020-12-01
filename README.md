@@ -1,8 +1,7 @@
 # cubesolver
-Cube solver converts any realtime cube into an string which is understandable to rubik-solver(library) with the help of image processing
-realtime cube images can be given from any rubik's cube android application and it can also trigger the cube moments using adb commands
+Cube solver converts any realtime cube into an string which is understandable to rubik-solver(library). With the help of image processing
+realtime cube images can be given from any rubik's cube or android application to get the solution. In an rubik's cube app it can trigger moments using adb commands
 
-pip the requirements.txt
 
 While capturing images make sure that
 Red = Front
